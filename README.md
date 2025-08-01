@@ -2,6 +2,10 @@
 
 A modern, feature-rich message dialog framework for WinUI 3 applications. This library provides an elegant alternative to traditional message boxes with enhanced customization, theming, and user experience features.
 
+https://github.com/user-attachments/assets/f166f83c-4003-424d-a35f-edef73c584bb
+
+
+
 ## Features
 
 - 🎨 **Modern WinUI 3 Design** - Seamlessly integrates with your app's theme
