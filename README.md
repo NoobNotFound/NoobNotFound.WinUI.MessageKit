@@ -1,4 +1,7 @@
 # NoobNotFound.WinUI.MessageKit
+![NuGet Version](https://img.shields.io/nuget/v/NoobNotFound.WinUI.MessageKit)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NoobNotFound/NoobNotFound.WinUI.MessageKit)
+![Static Badge](https://img.shields.io/badge/platform-windows10%2B-red)
 
 A modern, feature-rich message dialog framework for WinUI 3 applications. This library provides an elegant alternative to traditional message boxes with enhanced customization, theming, and user experience features.
 
