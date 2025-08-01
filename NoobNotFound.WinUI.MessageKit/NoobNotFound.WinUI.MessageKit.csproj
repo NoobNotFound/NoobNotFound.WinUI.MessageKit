@@ -7,7 +7,17 @@
     <UseWinUI>true</UseWinUI>
     <Title>NoobNotFound.WinUI.MessageKit</Title>
     <Description>A lightweight, customizable message dialog framework for WinUI 3 apps.</Description>
+    <Copyright>Copyright © NoobNotFound</Copyright>
+    <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/NoobNotFound/NoobNotFound.WinUI.MessageKit/tree/master</RepositoryUrl>
+    <PackageTags>winui, messaging, dialog</PackageTags>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="C:\Users\NoobNotFound\Desktop\icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.4654" />
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.7.250606001" />
