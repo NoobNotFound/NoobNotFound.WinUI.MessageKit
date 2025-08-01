@@ -11,6 +11,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/NoobNotFound/NoobNotFound.WinUI.MessageKit/tree/master</RepositoryUrl>
     <PackageTags>winui, messaging, dialog</PackageTags>
+    <Platforms>AnyCPU;ARM64;x64;x86</Platforms>
   </PropertyGroup>
   <ItemGroup>
     <None Include="C:\Users\NoobNotFound\Desktop\icon.png">
