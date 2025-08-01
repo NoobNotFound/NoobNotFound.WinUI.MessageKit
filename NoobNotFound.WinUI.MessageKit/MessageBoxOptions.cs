@@ -18,7 +18,7 @@ public sealed class MessageBoxOptions
     public string Message { get; set; } = "";
     public MessageBoxButtons Buttons { get; set; } = MessageBoxButtons.OK;
     public MessageBoxIcon Icon { get; set; } = MessageBoxIcon.None;
-    public MessageBoxSound Sound { get; set; } = DefaultSound;
+    public MessageBoxSound Sound { get; set; } = Core.DefaultSound;
     public MessageBoxResult DefaultResult { get; set; } = MessageBoxResult.None;
     public TimeSpan? Timeout { get; set; }
     public ElementTheme? Theme { get; set; }

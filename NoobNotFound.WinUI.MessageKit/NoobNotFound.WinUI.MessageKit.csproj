@@ -5,15 +5,23 @@
     <RootNamespace>NoobNotFound.WinUI.MessageKit</RootNamespace>
     <RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
     <UseWinUI>true</UseWinUI>
-    <Title>NoobNotFound.WinUI.MessageKit</Title>
+    <Title>NoobNotFound MessageKit</Title>
     <Description>A lightweight, customizable message dialog framework for WinUI 3 apps.</Description>
     <Copyright>Copyright © NoobNotFound</Copyright>
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/NoobNotFound/NoobNotFound.WinUI.MessageKit/tree/master</RepositoryUrl>
     <PackageTags>winui, messaging, dialog</PackageTags>
     <Platforms>AnyCPU;ARM64;x64;x86</Platforms>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Version>1.0.0</Version>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Include="C:\Users\NoobNotFound\Desktop\icon.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
